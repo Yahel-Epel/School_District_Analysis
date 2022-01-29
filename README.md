@@ -14,19 +14,54 @@ The school board think the Student complete file shows evidence of academic dish
 
 ## Results
 
-   The district summary DataFrame 
+ - The district summary DataFrame 
 ![district_summary_df.png](Resources/district_summary_df.png)
 
-- The school summary DataFrame
-![per_school_summary_df_after replace _THS_9th_grade.png(Resources/per_school_summary_df_after replace _THS_9th_grade.png)
+The school summary DataFrame
 
-The top 5 performing schools, based on the overall passing rate
-The bottom 5 performing schools, based on the overall passing rate 
-The average math score for each grade level from each school 
-The average reading score for each grade level from each school 
-The scores by school spending per student 
-The scores by school size 
-The scores by school type
+- The top 5 performing schools, based on the overall passing rate
+![5_top_schools.png](Resources/5_top_schools.png)
+
+- The bottom 5 performing schools, based on the overall passing rate 
+![5_bottom_schools.png](Resources/5_bottom_schools.png)
+
+- The average math score for each grade level from each school
+
+![math_scores_by_grade.png](Resources/math_scores_by_grade.png)
+
+- The average reading score for each grade level from each school 
+
+![reading_scores_by_grade.png](Resources/reading_scores_by_grade.png)
+
+- The scores by school spending per student 
+
+![Scores_by_School_Spending.png](Resources/Scores_by_School_Spending.png)
+
+- The scores by school size 
+
+
+- The scores by school type
+![Scores_by_School_Type.png](Resources/Scores_by_School_Type.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
