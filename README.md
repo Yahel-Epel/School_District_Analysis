@@ -9,18 +9,16 @@ Using the Student complete dataset to understend the difrent schools achivments.
 ## Challenges and Selotions
 The school board think the Student complete file shows evidence of academic dishonesty in orger to solve this we ajested the nath and reading scours for Thomas High School, 9th grede student to NaN, so this date will not affect the total scores.   
 
-The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs
-![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
-We can see that theater campaigns launched in May were the most successful Kickstarter campaigns and campaigns that launched in January, June, July, and October have the highest number of failed campaigns.
-
+#### The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs
+![Reading_and_math_scores_9th_graders_THS_are_NaNs.png](Resources/Reading_and_math_scores_9th_graders_THS_are_NaNs.png)
 
 ## Results
 
-The district summary DataFrame 
+   The district summary DataFrame 
+![district_summary_df.png](Resources/district_summary_df.png)
 
-
-The school summary DataFrame
-
+- The school summary DataFrame
+![per_school_summary_df_after replace _THS_9th_grade.png(Resources/per_school_summary_df_after replace _THS_9th_grade.png)
 
 The top 5 performing schools, based on the overall passing rate
 The bottom 5 performing schools, based on the overall passing rate 
