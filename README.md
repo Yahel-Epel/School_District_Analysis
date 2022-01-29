@@ -38,7 +38,7 @@ The school summary DataFrame
 ![Scores_by_School_Spending.png](Resources/Scores_by_School_Spending.png)
 
 - The scores by school size 
-
+![school_size.png](Resources/school_size.png)
 
 - The scores by school type
 ![Scores_by_School_Type.png](Resources/Scores_by_School_Type.png)
