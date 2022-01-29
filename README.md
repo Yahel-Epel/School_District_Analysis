@@ -25,13 +25,16 @@ The school summary DataFrame
 - The bottom 5 performing schools, based on the overall passing rate 
 ![5_bottom_schools.png](Resources/5_bottom_schools.png)
 
-- The average math score for each grade level from each school  
+- The average math score for each grade level from each school
+
 ![math_scores_by_grade.png](Resources/math_scores_by_grade.png)
 
 - The average reading score for each grade level from each school 
+
 ![reading_scores_by_grade.png](Resources/reading_scores_by_grade.png)
 
 - The scores by school spending per student 
+
 ![Scores_by_School_Spending.png](Resources/Scores_by_School_Spending.png)
 
 - The scores by school size 
