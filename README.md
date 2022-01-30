@@ -17,8 +17,9 @@ The school board thinks the Student's complete file shows evidence of academic d
  - The district summary DataFrame 
 ![district_summary_df.png](Resources/district_summary_df.png)
 
- By replacing Thomas High School, the 9th-grade score we can see the district summary scouts have a minor decrease.
- Because we replaced only Thomas High School scores it affects the scores of Thomas High School in the school summary which affects the school's total scores.
+ By replacing Thomas High School, 9th-grade score we can see the district summary scores have a minor decrease.
+ 
+ The school summary affected by this change only on the Thomas High School rew. It is affecting the other schools when we look at sum/ average/ mean of all the school.
 
 - The top 5 performing schools, based on the overall passing rate
 ![5_top_schools.png](Resources/5_top_schools.png)
