@@ -19,7 +19,7 @@ The school board thinks the Student's complete file shows evidence of academic d
 
  By replacing Thomas High School, 9th-grade score we can see the district summary scores have a minor decrease.
  
- The school summary affected by this change only on the Thomas High School row. It is affecting the other schools when we look at sum/ average/ mean of all the school.
+ The school summary affected by this change only on the Thomas High School row. It is affecting the other schools when we look at the sum/ average/ mean of all the schools..
 
 - The top 5 performing schools, based on the overall passing rate
 ![5_top_schools.png](Resources/5_top_schools.png)
@@ -37,23 +37,23 @@ The school board thinks the Student's complete file shows evidence of academic d
 
 ![Scores_by_School_Spending.png](Resources/Scores_by_School_Spending.png)
 
- The spending per student didn't change but the scoures has a samll decrease. 
+ The spending per student didn't change but the scores has a small decrease.
 
 - The scores by school size 
 ![school_size.png](Resources/school_size.png)
 
- The school size didn't change but the scoures show a samll decrease. 
+ The school size didn't change but the scoures show a small decrease. 
 
 - The scores by school type
 ![Scores_by_School_Type.png](Resources/Scores_by_School_Type.png)
 
- The scores by school type show a samll decrease. 
+ The school size didn't change but the scores show a small decrease.
 
 ## Summary: 
 Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
-1. The average Math and Reading scoure
-2. Precent of Math pasing dicreises by last than a point 
-3. Precent of Reading pasing dicreises by last than a point
-4. Precent of overall pasing dicreises by last than a point
+1. The average Math and Reading score
+2. Percent of Math passing decreases by last than a point
+3. Percent of Reading passing decreases by last than a point
+4. Percent of overall passing decreases by last than a point
 
-Beacouse the ninth grade at Thomas High School in only 0.01% of the total stuodant the changes we see are mainor.  
+Because the ninth grade at Thomas High School is only 0.01% of the total students the changes we see are minor.
